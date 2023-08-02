@@ -34,11 +34,15 @@
 //     alert("The class is no more running.);
 // }
 //Ternary operator
-                // Chapter 4 ( Statement )  
-// let a=9;
-// if(a>0) {
-//     alert("a os greater than 0");
-// } else {
-//     alert("a is less than 0");
-// }
-a>0 ? alert("a is greater than 0") : alert ("a is less than 0");
+//                 // Chapter 4 ( Statement )  
+// // let a=9;
+// // if(a>0) {
+// //     alert("a os greater than 0");
+// // } else {
+// //     alert("a is less than 0");
+// // }
+// a>0 ? alert("a is greater than 0") : alert ("a is less than 0");
+        // For loop
+for(let a = 4; a <10; a++ ){
+    console.log(a)
+}
