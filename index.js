@@ -33,7 +33,8 @@
 // if(!isvalid){
 //     alert("The class is no more running.);
 // }
-                // Chapter 4 ( Statement )
+//Ternary operator
+                // Chapter 4 ( Statement )  
 // let a=9;
 // if(a>0) {
 //     alert("a os greater than 0");
