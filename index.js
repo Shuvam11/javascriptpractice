@@ -43,6 +43,14 @@
 // // }
 // a>0 ? alert("a is greater than 0") : alert ("a is less than 0");
         // For loop
-for(let a = 4; a <10; a++ ){
-    console.log(a)
-}
+// for(let a = 4; a <10; a++ ){
+//     console.log(a)
+// }
+//         //While loop
+// let a = 4;
+// while (a <=10){
+// console.log (a)
+// a++;
+// }
+
+
