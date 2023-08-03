@@ -52,6 +52,37 @@
 // console.log (a)
 // a++;
 // }
+                //Function
+                //ES5
+//  function hello (){
+//         console.log(" hello world");
+//  }
+//  hello();
+        // ES6
+// const hello = () => {
+//         console.log("hello hi world");
+// };
 
+// hello();
 
+// const add = (a,b) => {
 
+//         return a +b;
+// }
+// const result = add(2,3);
+// console.log(result);
+// const add = (a,b) => {if (a>0 && b>0){
+//         return a + b;
+
+// }
+// return "Negative value has been passed as argument";
+// }
+// const.result = ass(-1,-3);
+// console.log(result); !negative argument has been passed s argument!
+// const.result=add(1,3);
+// console.log(result1);
+const string = Number(prompt("Enter your age"));
+console.log(typeof string);
+
+const data=new data();
+console.log(data): new date
