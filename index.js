@@ -81,8 +81,28 @@
 // console.log(result); !negative argument has been passed s argument!
 // const.result=add(1,3);
 // console.log(result1);
-const string = Number(prompt("Enter your age"));
-console.log(typeof string);
+// const string = Number(prompt("Enter your age"));
+// console.log(typeof string);
 
-const data=new data();
-console.log(data): new date
+// const data=new data();
+// console.log(data): new date
+// const person = {
+//         firstName:"John",
+//         lastName:"Doe",
+//         letAge:"12",
+//         fullName() { 
+//                 return this.firstName + "" +this.lastName +""+this.age;
+//         } 
+// }
+// console.log(person.firstName,person.lastName,person.age)
+
+const wars = {
+        startedYear:"1940",
+        endingYear:"1943",
+        foughtBy:"Russia",
+        foughtWith:"Germany",
+        Wars (){
+        return this.foughtWith+" "+this.foughtBy
+}
+}
+ console.log(startedYe
