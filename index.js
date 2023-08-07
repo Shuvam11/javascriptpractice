@@ -96,13 +96,13 @@
 // }
 // console.log(person.firstName,person.lastName,person.age)
 
-const wars = {
-        startedYear:"1940",
-        endingYear:"1943",
-        foughtBy:"Russia",
-        foughtWith:"Germany",
-        Wars (){
-        return this.foughtWith+" "+this.foughtBy
-}
-}
- console.log(startedYe
+// const wars = {
+//         startedYear:"1940",
+//         endingYear:"1943",
+//         foughtBy:"Russia",
+//         foughtWith:"Germany",
+//         Wars (){
+//         return this.foughtWith+" "+this.foughtBy
+// }
+// }
+//  console.log(startedYe
