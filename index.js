@@ -11,7 +11,7 @@
 
 // // // const z=7;
 // // // console.log(z);
-                    //Chapter 2
+//                     Chapter 2
 // // alert("user name ans password is wrong");
 // // const name = prompt("Enter your name");
 // // const pw = prompt("Enter your pw");
@@ -24,7 +24,7 @@
 // // confirm("Are you 18 years old");
 
 // const name = prompt("Enter your name");
-                // Chapter 3 Operators
+//                 Chapter 3 Operators
 // let hour =17;
 // if(hour>14 && hour < 16) {
 //     alert (" Class is running");
@@ -33,7 +33,7 @@
 // if(!isvalid){
 //     alert("The class is no more running.);
 // }
-//Ternary operator
+// Ternary operator
 //                 // Chapter 4 ( Statement )  
 // // let a=9;
 // // if(a>0) {
@@ -42,7 +42,7 @@
 // //     alert("a is less than 0");
 // // }
 // a>0 ? alert("a is greater than 0") : alert ("a is less than 0");
-        // For loop
+//         For loop
 // for(let a = 4; a <10; a++ ){
 //     console.log(a)
 // }
@@ -52,13 +52,13 @@
 // console.log (a)
 // a++;
 // }
-                //Function
-                //ES5
+//                 Function
+//                 ES5
 //  function hello (){
 //         console.log(" hello world");
 //  }
 //  hello();
-        // ES6
+//         ES6
 // const hello = () => {
 //         console.log("hello hi world");
 // };
@@ -106,3 +106,8 @@
 // }
 // }
 //  console.log(startedYe
+
+
+
+
+
